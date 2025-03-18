@@ -36,4 +36,5 @@ pip install numpy pandas unidecode
 
 ## ✅ Notes
 - The dataset covers MVP winners from 1956 to 2024.
+- Originally used Google Colab, cod emight need adjustments based on IDE
 - For brevity, only the first 10 players are displayed in the sample output.
